@@ -7,4 +7,4 @@ public class Solution{
 		}
 	}
 }
-
+write another code
